@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Sulaymon333/operationalizing-ML-API-udacity-cloud-devops/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Sulaymon333/operationalizing-ML-API-udacity-cloud-devops/tree/main)
 
 ## Project Overview
 
