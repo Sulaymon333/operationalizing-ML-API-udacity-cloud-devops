@@ -20,9 +20,9 @@ This project carried a number of task listed below to operationalize a working m
 
 ## Short description of folders and files in this repository (d - folder and f - file)
 
-- [.circleci (d)](https://github.com/Sulaymon333/operationalizing-ML-API-udacity-cloud-devops/tree/main/.circleci): this is the folder for the CircleCI build server. It contains the config.yml configuration file
+- [.circleci (d)](https://github.com/Sulaymon333/operationalizing-ML-API-udacity-cloud-devops/tree/main/.circleci): this is the folder for the CircleCI build server. It contains the `config.yml` configuration file
 - [model_data (d)](https://github.com/Sulaymon333/operationalizing-ML-API-udacity-cloud-devops/tree/main/model_data): this is the folder for the pretrained sklearn model and housing csv files
-- [output_txt_files (d)](https://github.com/Sulaymon333/operationalizing-ML-API-udacity-cloud-devops/tree/main/output_txt_files): this is the folder for the sample output logs from running ./run_docker.sh and ./run_kubernetes.sh. It contains 2 files - docker_out.txt and kubernetes_out.txt
+- [output_txt_files (d)](https://github.com/Sulaymon333/operationalizing-ML-API-udacity-cloud-devops/tree/main/output_txt_files): this is the folder for the sample output logs from running ./run_docker.sh and ./run_kubernetes.sh. It contains 2 files - `docker_out.txt` and `kubernetes_out.txt`
 - [Dockerfile (f)](https://github.com/Sulaymon333/operationalizing-ML-API-udacity-cloud-devops/blob/main/Dockerfile): this file contains instructions to containerize the application
 - [Makefile (f)](https://github.com/Sulaymon333/operationalizing-ML-API-udacity-cloud-devops/blob/main/Makefile) : this file contains instructions for environment setup and lint tests
 - [app.py (f)](https://github.com/Sulaymon333/operationalizing-ML-API-udacity-cloud-devops/blob/main/app.py): this file contains the flask app
